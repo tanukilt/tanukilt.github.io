@@ -2,40 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tanukilt.github.io/</loc>
-    <priority>0</priority>
+    <loc>https://tanukilt.github.io/docs/japonais/Prononciation/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/docs/japonais/Ecriture/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/Grammairejlpt/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/grammaire/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/GrammaireL1/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/kanji/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/GrammaireL2/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/kanji/Kanjijlpt/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/GrammaireL3/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/kanji/KanjiL1/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/HistoireL1/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/kanji/KanjiL2/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/HistoireL2/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/kanji/KanjiL3/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/Kanjijlpt/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/vocabulaire/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/KanjiL1/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/vocabulaire/VocJournalistique/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/KanjiL2/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/vocabulaire/VocTheme1/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/KanjiL3/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/histoire/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/Prononciation/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/histoire/HistoireL1/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/VocJournalistique/</loc>
+    <loc>https://tanukilt.github.io/docs/japonais/histoire/HistoireL2/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/japonais/VocTheme1/</loc>
+    <loc>https://tanukilt.github.io/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/japonais/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/japonais/grammaire/GrammaireL1/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/japonais/grammaire/GrammaireL2/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/japonais/grammaire/GrammaireL3/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/categories/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/docs/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/japonais/grammaire/Grammairejlpt/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/categories/histoire/</loc>
+  </url><url>
+    <loc>https://tanukilt.github.io/categories/japon/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/tags/</loc>
   </url>
