@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanukilt</title>
+    <link>https://tanukilt.github.io/docs/inalco/grammaire/</link>
+    <description>Recent content on Tanukilt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://tanukilt.github.io/docs/inalco/grammaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL1/</guid>
+      <description>En construction</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL2/</guid>
+      <description>En construction</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/grammaire/GrammaireL3/</guid>
+      <description>En construction</description>
+    </item>
+    
+  </channel>
+</rss>
