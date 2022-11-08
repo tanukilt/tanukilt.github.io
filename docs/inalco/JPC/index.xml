@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanukilt</title>
+    <link>https://tanukilt.github.io/docs/inalco/JPC/</link>
+    <description>Recent content on Tanukilt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://tanukilt.github.io/docs/inalco/JPC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/JPC/JPC-S1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/JPC/JPC-S1/</guid>
+      <description>En construction</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/JPC/JPC-S2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/JPC/JPC-S2/</guid>
+      <description>En construction</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/JPC/JPC-S3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/JPC/JPC-S3/</guid>
+      <description>Japon contemporain S3 # credit: Jean-Artisanat + ajouts personnels</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tanukilt.github.io/docs/inalco/JPC/JPC-S4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanukilt.github.io/docs/inalco/JPC/JPC-S4/</guid>
+      <description>En construction</description>
+    </item>
+    
+  </channel>
+</rss>
