@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="En construction">
+<meta name="description" content="&lt;!DOCTYPE html&gt; Card Flip with Text Hover over the image below: 関 カン - intérêt (porté à): 関心・カンシン 難民問題に関心がある。 Je m&#39;intéresse au problème des réfugiés. せき かか ">
 <meta name="theme-color" content="#FFFFFF">
-<meta name="color-scheme" content="light dark"><meta property="og:title" content="" />
-<meta property="og:description" content="En construction" />
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="test" />
+<meta property="og:description" content="&lt;!DOCTYPE html&gt; Card Flip with Text Hover over the image below: 関 カン - intérêt (porté à): 関心・カンシン 難民問題に関心がある。 Je m&#39;intéresse au problème des réfugiés. せき かか " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://tanukilt.github.io/docs/japonais/vocabulaire/VocJournalistique/" /><meta property="article:section" content="docs" />
+<meta property="og:url" content="https://tanukilt.github.io/docs/japonais/kanji/test/" /><meta property="article:section" content="docs" />
 
 
 
-<title>Voc Journalistique | Tanukilt</title>
+<title>test | Tanukilt</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.c58292d36b18b675680ab9baea2029204537b839ea72f258746ec0f32ce8d6c8.css" integrity="sha256-xYKS02sYtnVoCrm66iApIEU3uDnqcvJYdG7A8yzo1sg=" crossorigin="anonymous">
@@ -142,7 +142,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-5c93926d7cb60145d714a8dcdb07973f" class="toggle"  />
+    <input type="checkbox" id="section-5c93926d7cb60145d714a8dcdb07973f" class="toggle" checked />
     <label for="section-5c93926d7cb60145d714a8dcdb07973f" class="flex justify-between">
       <a href="/docs/japonais/kanji/" class="">Kanji</a>
     </label>
@@ -171,7 +171,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/japonais/kanji/test/" class="">test</a>
+    <a href="/docs/japonais/kanji/test/" class="active">test</a>
   
 
         </li>
@@ -189,7 +189,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <input type="checkbox" id="section-504d5e9e73f7febbdbfe99b56a1119aa" class="toggle" checked />
+    <input type="checkbox" id="section-504d5e9e73f7febbdbfe99b56a1119aa" class="toggle"  />
     <label for="section-504d5e9e73f7febbdbfe99b56a1119aa" class="flex justify-between">
       <a href="/docs/japonais/vocabulaire/" class="">Vocabulaire</a>
     </label>
@@ -205,7 +205,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/japonais/vocabulaire/VocJournalistique/" class="active">Voc Journalistique</a>
+    <a href="/docs/japonais/vocabulaire/VocJournalistique/" class="">Voc Journalistique</a>
   
 
         </li>
@@ -619,7 +619,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Voc Journalistique</strong>
+  <strong>test</strong>
 
   <label for="toc-control">
     
@@ -633,7 +633,7 @@ https://github.com/alex-shpak/hugo-book
   <aside class="hidden clearfix">
     
   
-<nav id="TableOfContents"></nav>
+
 
 
 
@@ -644,8 +644,87 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><p>En construction</p>
-</article>
+  <article class="markdown"><!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 400px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: whitesmoke;
+  color: black;
+  font-size: 200px;
+}
+.flip-card-front h1{
+  background-color: #bbb;
+  color: black;
+  font-size: 200px;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+    text-align: left;
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h1>Card Flip with Text</h1>
+<h3>Hover over the image below:</h3>
+
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      関
+    </div>
+    <div class="flip-card-back">
+        <b>カン</b><br/>
+        - intérêt (porté à): 関心・カンシン<br/>
+        　難民問題に関心がある。<br/>
+        　<i>Je m'intéresse au problème des réfugiés.</i><br/>
+        <b>せき</b><br/>
+        
+        <b>かか</b><br/>
+    </div>
+  </div>
+</div>
+</body>
+</html></article>
  
       
 
@@ -684,7 +763,7 @@ https://github.com/alex-shpak/hugo-book
       <div class="book-toc-content">
         
   
-<nav id="TableOfContents"></nav>
+
 
 
  
