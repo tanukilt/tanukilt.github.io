@@ -58,8 +58,6 @@
   </url><url>
     <loc>https://tanukilt.github.io/docs/inalco/histoire/HistoireL1/</loc>
   </url><url>
-    <loc>https://tanukilt.github.io/docs/inalco/histoire/HistoireS32122/</loc>
-  </url><url>
     <loc>https://tanukilt.github.io/docs/inalco/histoire/HistoireS32223/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/docs/inalco/histoire/Souyri/</loc>
@@ -76,6 +74,8 @@
   </url><url>
     <loc>https://tanukilt.github.io/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://tanukilt.github.io/docs/inalco/histoire/HistoireS32122/</loc>
   </url><url>
     <loc>https://tanukilt.github.io/categories/</loc>
   </url><url>
